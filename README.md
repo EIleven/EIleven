@@ -1,7 +1,7 @@
 # **Hi there, I'm Breno** 👋
 ![Welcome to my profile,](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif)
 ***
-**I’m currently learning:**
+## I’m currently learning:
 * Python 🌱
 * WordPress Developer⚡
 * Html5 ⚡
@@ -29,5 +29,5 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-darkblue)
 ![WordPress](https://img.shields.io/badge/-Woocommerce-purple)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue)
-
+***
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EIleven.id)
