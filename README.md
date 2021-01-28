@@ -11,7 +11,7 @@
 
 ## Follow me
 
-[LinkedIn](https://www.linkedin.com/feed/)
+[LinkedIn](https://www.linkedin.com/in/brenobarros11)
 
 [Instaram](https://www.instagram.com/brenobarros11/)
 
