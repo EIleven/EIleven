@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-darkblue)
-![WordPress](https://img.shields.io/badge/-Woocommerce-purple)
+![WordPress](https://img.shields.io/badge/-WooCommerce-purple)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue)
 ***
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EIleven.id)
