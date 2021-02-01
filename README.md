@@ -3,13 +3,13 @@
 
 ## I’m currently learning:
 * Python 🌱
-* WordPress Developer⚡
+* WordPress ⚡
 * Html5 ⚡
 * CSS3 ⚡ 
 * JavaScript ⚡ 
 * I’m currently learning about cybersecurity 🔭
 
-## Follow me
+## Follow 
 
 [LinkedIn](https://www.linkedin.com/in/brenobarros11)
 
