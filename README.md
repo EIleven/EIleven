@@ -1,13 +1,14 @@
-# **Hi there, I'm Breno** 👋
+# **Hi there, I'm Breno**:milky_way:
 ![Welcome to my profile,](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif)
 
 ## I’m currently learning:
-* Python 🌱
-* WordPress ⚡
-* Html5 ⚡
-* CSS3 ⚡ 
-* JavaScript ⚡ 
-* I’m currently learning about cybersecurity 🔭
+
+* WordPress :grey_exclamation:
+* Html5 :grey_exclamation:
+* CSS3 :grey_exclamation:
+* JavaScript :grey_exclamation:
+* learning Cybersecurity:seedling:
+* Python:seedling:
 
 ## Follow 
 
