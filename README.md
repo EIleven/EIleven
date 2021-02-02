@@ -1,4 +1,5 @@
-# **Hi there, I'm Breno** 👋  ![Welcome to my profile,](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif)
+# **Hi there, I'm Breno** 👋
+![Welcome to my profile,](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif)
 
 ## I’m currently learning:
 * Python 🌱
