@@ -30,5 +30,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-darkblue)
 ![WordPress](https://img.shields.io/badge/-WooCommerce-purple)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue)
+![AdobeXd](https://img.shields.io/badge/-AdobeXD-FF26BE?style=flat&amp;logo=adobe%20xd&amp;logoColor=white)
+
 ***
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EIleven.id)
