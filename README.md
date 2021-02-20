@@ -12,7 +12,7 @@
 
 ## Follow 
 
-<a href="https://www.linkedin.com/in/brenobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/brenobarros11/" target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white"></a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EIleven&theme=merko&show_icons=true&count_private=true)
