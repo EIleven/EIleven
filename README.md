@@ -7,6 +7,7 @@
 * Html5 :grey_exclamation:
 * CSS3 :grey_exclamation:
 * JavaScript :grey_exclamation:
+* React/Next.js:seedling:
 * learning Cybersecurity:seedling:
 * Python:seedling:
 
