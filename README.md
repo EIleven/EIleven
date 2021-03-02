@@ -1,5 +1,5 @@
 # **Hi there, I'm Breno**:milky_way:
-![Welcome to my profile,](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif)
+<img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif" width="150rem" align="left"/>
 
 ## I’m currently learning:
 
