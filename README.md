@@ -3,12 +3,14 @@
 
 ## I’m currently learning:
 
-* WordPress :grey_exclamation:
+* Python :grey_exclamation:
+* Flask :grey_exclamation:
+BackEnd Python ❕:grey_exclamation:
 * Html5 :grey_exclamation:
 * CSS3 :grey_exclamation:
 * JavaScript :grey_exclamation:
 * React/Next.js:seedling:
-* Python:seedling:
+
 
 ## Follow 
 
