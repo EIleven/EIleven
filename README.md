@@ -1,8 +1,6 @@
 # **Hi there, I'm Breno**:milky_way:
 <img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif" width="150rem" align="left"/>
 
-## I’m currently learning:
-
 * Python :grey_exclamation:
 * Flask :grey_exclamation:
 BackEnd Python ❕:grey_exclamation:
