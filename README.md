@@ -1,5 +1,5 @@
 # **Hi there, I'm Breno**:milky_way:
-<img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif" width="120rem" align="left"/>
+<img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif" width="300px" align="left"/>
 
 * Python :grey_exclamation:
 * Flask :grey_exclamation:
